@@ -1,5 +1,5 @@
 # About Me:
-Currently building a production-ready Land Registry Backend using Java, Spring Boot, JWT authentication, and MySQL  <br><br> Open to collaborating on backend engineering, full-stack development, and system-driven robotics projects  <br><br> Interested in refining scalable architecture, security best practices, and clean API design  <br><br>Actively learning advanced Spring Security, distributed systems, and ROS2-based robotics integration  <br><br> Ask me about REST APIs, authentication systems, MERN stack, MySQL/PostgreSQL, and Raspberry Pi + ROS2 projects  <br><br>I enjoy engineering complete systems — from database design to deployment.
+Computer Science student passionate about building scalable backend systems, full-stack applications, MERN Stack based applications and system-driven robotics solutions.
 
 
 ## Socials:
