@@ -15,9 +15,7 @@ jobs:
 
       - name: Touch README (force update)
         run: |
-          echo "Last updated: $(date)" >> temp.txt
-          cat README.md >> temp.txt
-          mv temp.txt README.md
+          touch README.md
 
       - name: Commit changes
         run: |
